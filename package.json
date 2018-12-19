@@ -1,0 +1,19 @@
+{
+  "name": "mobile-topup",
+  "version": "1.0.0",
+  "description": "This repository contains a voucher/topup transactions platform code.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishkumar68/mobile-topup.git"
+  },
+  "author": "Ashish Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishkumar68/mobile-topup/issues"
+  },
+  "homepage": "https://github.com/ashishkumar68/mobile-topup#readme"
+}
